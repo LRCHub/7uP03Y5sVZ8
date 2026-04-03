@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "春一番",
+  "base_artist": "にしな",
+  "createdAt": "2026-04-03T03:51:25.878892Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "春一番",
+      "artist": "yonige",
+      "has_synced": true,
+      "path": "select/01_春一番_yonige.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "春一番",
+      "artist": "キャンディーズ",
+      "has_synced": false,
+      "path": "select/02_春一番_キャンディーズ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "春一番",
+      "artist": "キャンディーズ",
+      "has_synced": true,
+      "path": "select/03_春一番_キャンディーズ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "春一番（オリジナル・カラオケ）",
+      "artist": "キャンディーズ",
+      "has_synced": false,
+      "path": "select/04_春一番(オリジナル・カラオケ)_キャンディーズ.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "春一番",
+      "artist": "にしな",
+      "has_synced": true,
+      "path": "select/05_春一番_にしな.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "春一番（アルバム・ヴァージョン）",
+      "artist": "キャンディーズ",
+      "has_synced": false,
+      "path": "select/06_春一番(アルバム・ヴァージョン)_キャンディーズ.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "春一番",
+      "artist": "イカロス",
+      "has_synced": false,
+      "path": "select/07_春一番_イカロス.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "春一番",
+      "artist": "にしな",
+      "has_synced": false,
+      "path": "select/pl_01_春一番_にしな.txt"
+    }
+  ]
+}
